@@ -1,2 +1,2 @@
 # Nano-device-for-computational-imaging
-Review: Nano device, Computational imaging
+Review: Nano Device for Computational Imaging
